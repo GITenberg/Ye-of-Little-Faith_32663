@@ -1,0 +1,38 @@
+_repo: Ye-of-Little-Faith_32663
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Beecham, Tom
+    alias: Beecham, Thomas A.
+    birthdate: 1926
+    deathdate: 2000
+    gutenberg_agent_id: '34284'
+    url: http://www.gutenberg.org/2009/agents/34284
+covers:
+- cover_type: archival
+  image_path: 32663-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Phillips, Rog
+    aliases:
+    - Graham, Roger Phillips
+    - Browning, Craig
+    birthdate: 1909
+    deathdate: 1965
+    gutenberg_agent_id: '34753'
+    url: http://www.gutenberg.org/2009/agents/34753
+    wikipedia: http://en.wikipedia.org/wiki/Rog_Phillips
+description: ''
+gutenberg_issued: '2010-06-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32663'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+title: Ye of Little Faith
+url: http://www.gutenberg.org/ebooks/32663
