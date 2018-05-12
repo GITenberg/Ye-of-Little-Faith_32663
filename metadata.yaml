@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34753
     wikipedia: http://en.wikipedia.org/wiki/Rog_Phillips
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32663#Ye-of-Little-Faith
 gutenberg_issued: '2010-06-02'
 gutenberg_type: Text
 identifiers:
